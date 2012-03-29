@@ -1,0 +1,16 @@
+# Issues Agreement
+
+## Mutual respect / Let's be friends <a name="respect"></a>
+
+I'd appreciate you to take a moment a look over this document before submitting an issue to one of my projects. It really helps me out. It signals to me that you respect my time. In turn, I'll show the same respect in addressing your issue.
+
+Afterwards, maybe we can go to the movies and share a tub of popcorn.
+
+## Types of issues <a name="types-of-issues"></a>
+
+[As FAT discusses](http://wordsbyf.at/2012/02/13/creating-issues/), an issue is typically one of the following:
+
++ **Bugs** -- when a feature of the project has been _identified as broken_
++ **Feature requests** -- when you ask for a _new feature_ to be added to a project
++ **Implementation problems** -- when you are having trouble setting up a working instance of the project
+
