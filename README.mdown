@@ -1,6 +1,6 @@
 # Issues Agreement
 
-## Mutual respect / Let's be friends <a name="respect"></a>
+## Help me help you
 
 I'd appreciate you to take a moment a look over this document before submitting an issue to one of my projects. It really helps me out. It signals to me that you respect my time. In turn, I'll show the same respect in addressing your issue.
 
@@ -8,9 +8,41 @@ Afterwards, maybe we can go to the movies and share a tub of popcorn.
 
 ## Types of issues <a name="types-of-issues"></a>
 
-[As FAT discusses](http://wordsbyf.at/2012/02/13/creating-issues/), an issue is typically one of the following:
+[As @fat discusses](http://wordsbyf.at/2012/02/13/creating-issues/), an issue is typically one of the following:
 
-+ **Bugs** -- when a feature of the project has been _identified as broken_
-+ **Feature requests** -- when you ask for a _new feature_ to be added to a project
-+ **Implementation problems** -- when you are having trouble setting up a working instance of the project
++ **Bugs** &mdash; when a feature of the project has been _identified as broken_
++ **Feature requests** &mdash; when you ask for a _new feature_ to be added to a project
++ **Personal support requests** &mdash; when you are having _trouble setting up_ a working instance of the project
+
+## Avoid personal support requests <a name="personal-support-requests"></a>
+
+**Hey, I'm just one guy.** As such, I simply do not have the bandwidth to provide personal support for everyone's implementation issues. The issue tracker is best used for bugs and feature requests. 
+
+But I don't want to leave you high and dry. If you can follow the steps below, I'll be best-suited to possibly provide a solution.
+
+I reserve the right to close any issue I deem as an implementation issue, general development question, or personal support request.
+
+## Isolate the issue <a name="isolate"></a>
+
++ Identify the conditions for the issue. When and how does it occur?
++ Recreate the issue in an isolated example. Try creating a simplified version of your page where it only deals with re-creating the issue. [jsFiddle](http://jsfiddle.net/) is perfect for this.
+
+[FAT](http://wordsbyf.at/2012/02/13/creating-issues/):
+
+> [T]he first and single most import thing for you to do when filing an issue is concentrate on **isolating a demonstrable problem.** The goal here is to be able to provide the most mind numbingly simple and easy to reproduce problem as possible.
+
+## Provide a live URL <a name="live-url"></a>
+
+A **live URL** is required. If you have a live site, add the link. If the project is confidential, try re-creating the issue in [jsFiddle](http://jsfiddle.net). **Without seeing it in the browser, I don't have a good idea of what you're trying to achieve.**
+
+**Pasting code does not help** as much as a live URL.
+
+[Like I sayz](http://twitter.com/desandro/status/105371678204366848):
+
+> Describing a dev problem is like showing a picture of your car to a mechanic. If you want me to fix it, I need to put my own hands on it. 
+
+## Search previous issues <a name="search-previous"></a>
+
+![GitHub issues search](http://i.imgur.com/ARPfv.png)
+
 
