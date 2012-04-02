@@ -1,7 +1,5 @@
 # Issues Agreement
 
-## Help me help you
-
 I'd appreciate you to take a moment a look over this document before submitting an issue to one of my projects. It really helps me out. It signals to me that you respect my time. In turn, I'll show the same respect in addressing your issue.
 
 Afterwards, maybe we can go to the movies and share a tub of popcorn.
@@ -25,6 +23,7 @@ I reserve the right to close any issue I deem as an implementation issue, genera
 ## Isolate the issue <a name="isolate"></a>
 
 + Identify the conditions for the issue. When and how does it occur?
++ Remove the resource from the project &mdash; does the issue still occur?
 + Recreate the issue in an isolated example. Try creating a simplified version of your page where it only deals with re-creating the issue. [jsFiddle](http://jsfiddle.net/) is perfect for this.
 
 [FAT](http://wordsbyf.at/2012/02/13/creating-issues/):
@@ -33,7 +32,7 @@ I reserve the right to close any issue I deem as an implementation issue, genera
 
 ## Provide a live URL <a name="live-url"></a>
 
-A **live URL** is required. If you have a live site, add the link. If the project is confidential, try re-creating the issue in [jsFiddle](http://jsfiddle.net). **Without seeing it in the browser, I don't have a good idea of what you're trying to achieve.**
+A **live URL** is required. An isolated example in [jsFiddle](http://jsfiddle.net) is ideal. Otherwsie, if you have a live site, add the link. **Without seeing it in the browser, I don't have a good idea of what you're trying to achieve.**
 
 **Pasting code does not help** as much as a live URL.
 
