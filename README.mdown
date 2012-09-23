@@ -4,7 +4,7 @@ I'd appreciate you to take a moment a look over this document before submitting 
 
 Afterwards, maybe we can go to the movies and share a tub of popcorn.
 
-## Types of issues <a name="types-of-issues"></a>
+## Types of issues
 
 [As @fat discusses](http://wordsbyf.at/2012/02/13/creating-issues/), an issue is typically one of the following:
 
@@ -12,7 +12,7 @@ Afterwards, maybe we can go to the movies and share a tub of popcorn.
 + **Feature requests** &mdash; when you ask for a _new feature_ to be added to a project
 + **Personal support requests** &mdash; when you are having _trouble setting up_ a working instance of the project
 
-## Avoid personal support requests <a name="personal-support-requests"></a>
+## Avoid personal support requests
 
 **Hey, I'm just one guy.** As such, I simply do not have the bandwidth to provide personal support for everyone's implementation issues. The issue tracker is best used for bugs and feature requests. 
 
@@ -20,17 +20,17 @@ But I don't want to leave you high and dry. If you can follow the steps below, I
 
 I reserve the right to close any issue I deem as an implementation issue, general development question, or personal support request.
 
-## Isolate the issue <a name="isolate"></a>
+## Isolate the issue
 
 + Identify the conditions for the issue. When and how does it occur?
 + Remove the resource from the project &mdash; does the issue still occur?
 + Recreate the issue in an isolated example. Try creating a simplified version of your page where it only deals with re-creating the issue. [jsFiddle](http://jsfiddle.net/) is perfect for this.
 
-[FAT](http://wordsbyf.at/2012/02/13/creating-issues/):
+[fat](http://wordsbyf.at/2012/02/13/creating-issues/):
 
 > [T]he first and single most import thing for you to do when filing an issue is concentrate on **isolating a demonstrable problem.** The goal here is to be able to provide the most mind numbingly simple and easy to reproduce problem as possible.
 
-## Provide a live URL <a name="live-url"></a>
+## Provide a live URL
 
 A **live URL** is required. An isolated example in [jsFiddle](http://jsfiddle.net) is ideal. Otherwsie, if you have a live site, add the link. **Without seeing it in the browser, I don't have a good idea of what you're trying to achieve.**
 
