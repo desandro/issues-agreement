@@ -32,7 +32,7 @@ I reserve the right to close any issue I deem as an implementation issue, genera
 
 ## Provide a live URL
 
-A **live URL** is required. An isolated example in [jsFiddle](http://jsfiddle.net) is ideal. Otherwsie, if you have a live site, add the link. **Without seeing it in the browser, I don't have a good idea of what you're trying to achieve.**
+A **live URL** is required. An isolated example in [jsFiddle](http://jsfiddle.net) is ideal. Otherwise, if you have a live site, add the link. **Without seeing it in the browser, I don't have a good idea of what you're trying to achieve.**
 
 **Pasting code does not help** as much as a live URL.
 
